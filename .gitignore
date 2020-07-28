@@ -31,5 +31,10 @@ ehthumbs.db
 [Bb]uild
 sysinfo.txt
 *.stackdump
+Builds/*
+Library/*
+Logs/*
+Temp/*
+
 
 .vs/*
