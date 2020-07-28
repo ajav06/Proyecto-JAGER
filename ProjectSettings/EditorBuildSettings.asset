@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/World/World.unity
+    guid: b9b5217afb32bf7bb92a96b18516941a
+  - enabled: 1
+    path: Assets/Scenes/Capture Marco/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Capture/Capture.unity
+    guid: 1546eb2d9233061378768409bc034400
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a0b8cf120483bab429d0361f326d98cd,
+      type: 2}
